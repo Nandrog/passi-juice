@@ -1,0 +1,11 @@
+.juice{
+  display:flex;
+}
+.theme{
+  display:grid;
+  grid-template-columns: 1fr 1fr;
+}
+.prof{
+  width:300px;
+  border-radius: 150px;
+}
